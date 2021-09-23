@@ -1,0 +1,7 @@
+[00:01:32]: [Join Announcement] 大星
+[00:25:46]: [Skin Announcement] 大星 legs_pinstripe_pants_red_garnet
+[02:09:21]: [Death Announcement] 大星 死于： 蜘蛛。她变成了可怕的鬼魂！
+[02:09:22]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[02:18:01]: [Death Announcement] 大星 死于： 恐怖尖喙。她变成了可怕的鬼魂！
+[02:18:02]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[02:22:09]: [Leave Announcement] 大星

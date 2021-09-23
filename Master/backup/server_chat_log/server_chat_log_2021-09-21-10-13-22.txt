@@ -1,0 +1,4 @@
+[00:01:45]: [Join Announcement] 大星
+[02:26:49]: [Death Announcement] 大星 死于： 坎普斯。她变成了可怕的鬼魂！
+[02:26:50]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[05:03:11]: [Leave Announcement] 大星

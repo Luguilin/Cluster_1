@@ -1,0 +1,7 @@
+[00:01:30]: [Join Announcement] 大星
+[00:11:02]: [Death Announcement] 大星 死于： 企鸥。她变成了可怕的鬼魂！
+[00:11:03]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[01:02:30]: [Skin Announcement] 大星 body_tshirt_green_leaf
+[02:05:45]: [Skin Announcement] 大星 legs_pinstripe_pants_purple_violet
+[03:12:24]: [Skin Announcement] 大星 body_buttons_red_burgundy
+[03:15:38]: [Leave Announcement] 大星

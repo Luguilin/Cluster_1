@@ -1,0 +1,4 @@
+[00:01:37]: [Join Announcement] 大星
+[00:35:47]: [Skin Announcement] 大星 body_buttons_red_burgundy
+[01:31:58]: [Skin Announcement] 大星 feet_workboot_tan_clay
+[02:11:07]: [Leave Announcement] 大星

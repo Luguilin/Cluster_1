@@ -1,0 +1,69 @@
+[00:01:41]: [Join Announcement] 大星
+[00:27:56]: [Death Announcement] 大星 死于： 蜜蜂。她变成了可怕的鬼魂！
+[00:27:58]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[00:28:16]: [Death Announcement] 大星 死于： 蜜蜂。她变成了可怕的鬼魂！
+[00:28:19]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[02:46:05]: [Death Announcement] 大星 死于： 沙刺。她变成了可怕的鬼魂！
+[02:46:06]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[02:46:34]: [Death Announcement] 大星 死于： 沙刺。她变成了可怕的鬼魂！
+[02:46:35]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[02:51:47]: [Death Announcement] 大星 死于： 黑暗。她变成了可怕的鬼魂！
+[02:51:48]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[04:49:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[04:51:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[04:53:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[04:55:09]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[04:57:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[04:59:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:01:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:03:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:05:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:07:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:09:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:11:10]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:13:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:15:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:17:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:19:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:21:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:23:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:25:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:27:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:29:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:31:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:33:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:35:11]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:37:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:39:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:41:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:43:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:45:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:47:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:49:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:51:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:53:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:55:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:57:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[05:59:12]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:01:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:03:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:05:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:07:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:07:36]: [Death Announcement] 大星 死于： 恶作剧。她变成了可怕的鬼魂！
+[06:07:38]: [Resurrect Announcement] 大星 复活自： 骷髅.
+[06:09:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:11:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:13:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:15:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:17:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:19:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:21:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:23:13]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:25:14]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:27:14]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:29:14]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:31:14]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:33:14]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:35:14]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:37:14]: [Mod Warning] [DST] 神话书说 世事无常·篇 is out of date and needs to be updated for new users to be able to join the server.
+[06:40:23]: [Leave Announcement] 大星
